@@ -5,13 +5,17 @@ This is your "Hello world" for opensource contribution. Want to try out some PR,
 
 ## Step 1: Fork this repo
 
-<img align="center" src="https://user-images.githubusercontent.com/59721339/92496251-87838580-f215-11ea-8b06-e79452815962.png" alt="fork this repository" />
+<img align="center" src="https://user-images.githubusercontent.com/59721339/92510135-ffa77680-f228-11ea-889f-d4a99eb873db.png" alt="fork this repository" />
 
  This creates a copy of this repo to your github account. Consider a scenerio were you want to work with some code from your friend. So you copy the code in a flash drive from your friends PC. forking is similar to this.
  *more explanation*
 ## Step 2: Clone the repo
 Now  you got the repo on your account.To work with code, clone the repo to your local machine. Similar to copying the code from the flash drive to your system. If you haven't install the git, It is a best time to do this.
+
+<img align="center" src="https://user-images.githubusercontent.com/59721339/92510454-7fcddc00-f229-11ea-9178-eb8cebfd34f7.png" />
+<img align="center" src="https://user-images.githubusercontent.com/59721339/92510575-b3a90180-f229-11ea-8c77-4f90752647ea.png">
 *explanation*
+
 ## Step 3: Create a new branch
  Go to the repo directory on your pc
  `cd hello-opensource`
