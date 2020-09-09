@@ -96,7 +96,7 @@ First go to the github repo in your account. Click `Compare & pull request`
 
 <img align="center" src="https://user-images.githubusercontent.com/59721339/92591860-46927c00-f2bc-11ea-98d1-3d1f56d76ec1.png"/> 
 
-And submit the pull request
+And submit the pull request by clicking `Create pull request`
 
 <img align="center" src="https://user-images.githubusercontent.com/59721339/92592170-cc162c00-f2bc-11ea-9e40-ac4afc618c6d.png"/>
 
