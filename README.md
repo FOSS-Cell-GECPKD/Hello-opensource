@@ -55,7 +55,7 @@ Now you have the project repo on your local machine.
 ## Step 4: Create a new file
 Go to contributions
 ```
-cd contributions
+cd contributors
 ```
 
 create a new file in that directory and fill in your info.
@@ -92,8 +92,16 @@ from our earlier example we copied the files from the flash drive. We made some 
 
 Here you give the flash drive to your friend. So he can look into the changes you have made. If everthing is good, he can have the changes you made to his project.
 
+First go to the github repo in your account. Click `Compare & pull request`
+
+<img align="center" src="https://user-images.githubusercontent.com/59721339/92591860-46927c00-f2bc-11ea-98d1-3d1f56d76ec1.png"/> 
+
+And submit the pull request
+
+<img align="center" src="https://user-images.githubusercontent.com/59721339/92592170-cc162c00-f2bc-11ea-9e40-ac4afc618c6d.png"/>
+
 ## Hurray!
- Congratulations, you have made it. Got any doubts, we are here to help you [gitter]().
+ Congratulations, you have made it. Got any doubts, we are here to help you [gitter](https://gitter.im/FOSS-Cell-GECPKD/community).
 
 ## Summary 
 
@@ -105,5 +113,6 @@ create a PR <---- push <---- commit <-- +
 
 ## Addditional resources
 If you want to explore git more here are few resources that could help you
-- [resource 1]()
-- [resource 2]()
+- [Git Tutorial for Beginners](https://www.youtube.com/watch?v=PWqS4NBhEY8) 
+- [GitHub flow](https://guides.github.com/introduction/flow/)
+- [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123) 
