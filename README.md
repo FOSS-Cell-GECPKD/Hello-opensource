@@ -1,15 +1,15 @@
 # Hello Opensource 
 
-[Intro]
-This is your "Hello world" for opensource contribution. Want to try out some PR, this the right place.[more intro]
+This is your "Hello world" for open source contributions. Want to try practicing some PRs? This the right place!
 
 ## Step 1: Fork this repo
 
 <img align="center" src="https://user-images.githubusercontent.com/59721339/92510135-ffa77680-f228-11ea-889f-d4a99eb873db.png" alt="fork this repository" />
 
- This creates a copy of this repo to your github account. Consider a scenerio were you want to work with some code from your friend. So you copy the code in a flash drive from your friends PC. Forking is similar to this.
- *more explanation*
+This creates a copy of this repo to your github account. Consider a scenerio were you want to work with some code from your friend. So you copy the code in a flash drive from your friends PC. Forking is similar to this.
+
 ## Step 2: Clone the repo
+
 Now  you got the repo on your account.To work with code, clone the repo to your local machine. Similar to copying the code from the flash drive to your system. If you haven't install the git, It is a best time to do this.
 
 Click on the "Code"
@@ -25,6 +25,7 @@ To clone the repo, open the terminal and run the command.
 ```
 git clone "url-you-copied"
 ```
+
 Now you have the project repo on your local machine.
 
 ## Step 3: Create a new branch
@@ -53,6 +54,7 @@ Now you have the project repo on your local machine.
 <img align="center" src="https://user-images.githubusercontent.com/59721339/92589146-bf430980-f2b7-11ea-9dc2-3581c1ea610c.png" />
 
 ## Step 4: Create a new file
+
 Go to contributions
 ```
 cd contributors
@@ -68,6 +70,7 @@ Github: [batman](https://github.com/batman)
 Save as `<your-name>.md`
 
 ## Step 5: Commit changes
+
  If you finalise the changes you can store the changes permanently by two steps
  `add` the changes
  ```
@@ -80,6 +83,7 @@ Save as `<your-name>.md`
  ```
  
 ## Step 6: Push changes
+
 Push the changes to your repo by:
 
 ```
@@ -101,6 +105,7 @@ And submit the pull request by clicking `Create pull request`
 <img align="center" src="https://user-images.githubusercontent.com/59721339/92592170-cc162c00-f2bc-11ea-9e40-ac4afc618c6d.png"/>
 
 ## Hurray!
+
  Congratulations, you have made it. Got any doubts, we are here to help you [gitter](https://gitter.im/FOSS-Cell-GECPKD/community).
 
 ## Summary 
@@ -112,6 +117,7 @@ create a PR <---- push <---- commit <-- +
 </pre>
 
 ## Addditional resources
+
 If you want to explore git more here are few resources that could help you
 - [Git Tutorial for Beginners](https://www.youtube.com/watch?v=PWqS4NBhEY8) 
 - [GitHub flow](https://guides.github.com/introduction/flow/)
