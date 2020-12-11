@@ -118,7 +118,4 @@ create a PR <---- push <---- commit <-- +
 
 ## Addditional resources
 
-If you want to explore git more here are few resources that could help you
-- [Git Tutorial for Beginners](https://www.youtube.com/watch?v=PWqS4NBhEY8) 
-- [GitHub flow](https://guides.github.com/introduction/flow/)
-- [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123) 
+Check out this [link](https://openhack.gitbook.io/openhack-20/resources#git-and-github) if you would like to explore more!
