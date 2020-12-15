@@ -107,7 +107,7 @@ And submit the pull request by clicking `Create pull request`
 
 ## Hurray!
 
- Congratulations, you have made it. Got any doubts, we are here to help you [gitter](https://gitter.im/FOSS-Cell-GECPKD/community).
+ Congratulations, you have made it. Got any doubts? Feel free to let us know at our Discord!
 
 ## Summary 
 
