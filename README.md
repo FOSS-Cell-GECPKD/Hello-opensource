@@ -18,7 +18,7 @@ Click on "Code"
 
 Copy the link
 
-<img align="center" src="https://user-images.githubusercontent.com/59721339/92510575-b3a90180-f229-11ea-8c77-4f90752647ea.png" />
+<img align="center" src="https://user-images.githubusercontent.com/50027064/102229988-5ac8c380-3f12-11eb-97b7-6cd551129ff2.png" />
 
 To clone the repo, open the terminal and run the command
 
