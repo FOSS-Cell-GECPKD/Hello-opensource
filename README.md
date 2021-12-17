@@ -120,3 +120,5 @@ create a PR <---- push <---- commit <-- +
 ## Addditional resources
 
 Check out this [link](https://openhack.gitbook.io/openhack-20/resources#git-and-github) if you would like to explore more!
+
+This project was a part of FOSS OpenHack '20: https://openhack.gitbook.io/openhack-20/.
